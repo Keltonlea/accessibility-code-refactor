@@ -47,6 +47,12 @@ p {
     font-size: 16px;
 }
 
+article {
+    width: 75%;
+    display:inline-block;
+    margin-left: 20px;
+}
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -70,16 +76,6 @@ aside {
     margin-right: 25px;
 }
 
-#float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-article {
-    width: 75%;
-    display:inline-block;
-    margin-left: 20px;
-}
 
 .benefit-sides {
     margin-bottom: 32px;
@@ -131,4 +127,9 @@ article {
 #seo {
     color: #d9dcd6;
     font-style: normal;
+}
+
+#float-right {
+    float: right;
+    margin-left: 25px;
 }
