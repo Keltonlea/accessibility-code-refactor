@@ -25,4 +25,4 @@ THEN I find a concise, descriptive title
 
 SCREENSHOT
 
-![Homework 1 Screenshot] (.assets/images/home-1-screenshot.png?raw=true "horsiseon Social Solution Services, Inc")
+![Homework 1 Screenshot](.assets/images/homework-1-screenshot.png?raw=true "horiseon Social Solution Services, Inc")
