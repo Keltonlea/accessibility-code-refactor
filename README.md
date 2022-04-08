@@ -2,15 +2,15 @@
 # 01 HTML, CSS, and Git: Code Refactor
 ## User Story
 
-```
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-```
+
 
 ## Acceptance Criteria
 
-```
+
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -23,6 +23,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-SCREENSHOT
+## SCREENSHOT
 
-![Homework 1 Screenshot](./assets/images/homework-1-screenshot.png?raw=true "horiseon Social Solution Services, Inc")
+![Homework 1 Screenshot](./assets/images/homework-1-screenshot.png?raw=true "Horiseon Social Solution Services, Inc")
+
+## Website URL
+https://keltonlea.github.io/uw-bootcamp-a1/
